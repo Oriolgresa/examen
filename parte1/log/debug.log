@@ -1,0 +1,436 @@
+2016-11-22 12:14:14 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:06 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:06 INFO  Controller:28 - {oriol=edu.upc.eetac.dsa.User@1f17ae12}
+2016-11-22 12:15:20 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:20 INFO  Controller:28 - {oriol=edu.upc.eetac.dsa.User@7e6cbb7a}
+2016-11-22 12:15:36 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:36 INFO  Controller:28 - [edu.upc.eetac.dsa.User@300ffa5d]
+2016-11-22 12:15:45 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:45 INFO  Controller:28 - [edu.upc.eetac.dsa.User@7e6cbb7a]
+2016-11-22 12:15:56 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:15:56 INFO  Controller:28 - [Ljava.lang.Object;@76fb509a
+2016-11-22 12:16:12 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:16:12 INFO  Controller:28 - 1
+2016-11-22 12:17:14 INFO  Controller:27 - Usuario añadido.
+2016-11-22 12:17:14 INFO  Controller:28 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 12:21:00 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:21:00 INFO  Controller:37 - Usuario modificado. 
+2016-11-22 12:21:52 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:21:52 INFO  Controller:28 - hay 1usuario/s
+2016-11-22 12:21:52 INFO  Controller:38 - Usuario modificado. 
+2016-11-22 12:22:22 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:22:22 INFO  Controller:28 - hay 1 usuario/s
+2016-11-22 12:22:22 INFO  Controller:38 - Usuario modificado. El nuevo password es 334456
+2016-11-22 12:26:05 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:26:05 INFO  Controller:28 - hay 1 usuario/s
+2016-11-22 12:26:05 INFO  Controller:38 - Usuario modificado. El nuevo password es 334456
+2016-11-22 12:28:19 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:28:19 INFO  Controller:28 - hay 1 usuario/s
+2016-11-22 12:28:19 INFO  Controller:38 - Usuario modificado. El nuevo password es 334456
+2016-11-22 12:28:19 INFO  Controller:45 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 12:29:43 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:29:43 INFO  Controller:28 - hay 1 usuario/s
+2016-11-22 12:29:43 INFO  Controller:38 - Usuario modificado. El nuevo password es 334456
+2016-11-22 12:29:43 INFO  Controller:47 - oriol
+2016-11-22 12:31:50 INFO  Controller:27 - Usuario oriol añadido con password 1234
+2016-11-22 12:31:50 INFO  Controller:28 - hay 1 usuario/s
+2016-11-22 12:31:50 INFO  Controller:38 - Usuario modificado. El nuevo password es 334456
+2016-11-22 12:31:50 INFO  Controller:50 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:09:36 INFO  Controller:26 - Usuario oriol añadido con password 1234
+2016-11-22 13:09:36 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 13:09:36 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:09:36 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:09:36 INFO  Controller:57 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:10:02 INFO  Controller:26 - Usuario oriol añadido con password 1234
+2016-11-22 13:10:02 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 13:10:02 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:10:02 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:10:02 INFO  Controller:57 - 
+
+nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:10:52 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 13:10:52 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 13:10:52 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:10:52 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:10:52 INFO  Controller:57 - 
+
+nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:10:52 INFO  Controller:57 - 
+
+nombre: lola, password: lolita, etakemons: null
+2016-11-22 13:12:03 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 13:12:03 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 13:12:03 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:12:03 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:12:03 INFO  Controller:55 - Lista: 
+
+2016-11-22 13:12:03 INFO  Controller:59 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:12:03 INFO  Controller:59 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 13:19:18 INFO  Controller:29 - Usuario lola añadido con password lolita
+2016-11-22 13:19:18 INFO  Controller:30 - hay 1 usuario/s
+2016-11-22 13:19:18 INFO  Controller:40 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:19:18 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 13:22:11 INFO  Controller:29 - Usuario lola añadido con password lolita
+2016-11-22 13:22:11 INFO  Controller:30 - hay 1 usuario/s
+2016-11-22 13:22:11 INFO  Controller:40 - Usuario modificado. El nuevo password es 334456
+2016-11-22 13:22:11 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 14:55:58 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 14:55:58 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 14:55:58 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 14:55:58 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 14:55:58 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 14:55:58 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 14:57:01 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 14:57:01 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 14:57:01 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 14:57:01 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 14:57:01 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 14:57:01 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 14:57:01 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:22:10 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:22:10 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:22:10 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:22:10 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:22:10 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:22:10 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 15:22:10 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:24:25 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:24:25 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:24:25 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:24:25 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:24:25 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:24:25 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 15:24:25 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:24:44 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:24:44 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:24:44 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:24:44 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:24:44 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:24:44 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: null
+2016-11-22 15:24:44 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: null
+2016-11-22 15:25:34 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:25:34 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:25:34 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:25:34 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:25:34 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:25:34 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:25:34 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:25:34 INFO  Controller:73 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:28:01 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:28:01 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:28:01 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:28:01 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:28:01 INFO  Controller:59 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:28:01 INFO  Controller:62 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:28:01 INFO  Controller:62 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:28:01 INFO  Controller:73 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:28:01 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: [edu.upc.eetac.dsa.Etakemon@7106e68e]
+2016-11-22 15:30:55 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:30:55 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:30:55 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:30:55 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:30:55 INFO  Controller:60 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:30:55 INFO  Controller:63 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:30:55 INFO  Controller:63 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:30:55 INFO  Controller:74 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:30:55 INFO  Controller:75 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 15:30:55 INFO  Controller:48 - nombre: oriol, password: 334456, etakemons: [edu.upc.eetac.dsa.Etakemon@6576fe71]
+2016-11-22 15:33:03 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:33:03 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:33:03 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:33:10 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:33:10 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:33:10 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:33:54 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:33:54 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:33:54 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:33:54 INFO  Controller:60 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:33:54 INFO  Controller:63 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:33:54 INFO  Controller:63 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:33:54 INFO  Controller:74 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:33:54 INFO  Controller:75 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 15:33:54 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: edu.upc.eetac.dsa.Etakemon@6576fe71
+2016-11-22 15:34:03 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:34:03 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:34:03 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:34:03 INFO  Controller:60 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:34:03 INFO  Controller:63 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:34:03 INFO  Controller:63 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:34:03 INFO  Controller:74 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:34:03 INFO  Controller:75 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 15:34:03 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: pikachu
+2016-11-22 15:36:17 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:36:17 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:36:17 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:36:17 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:36:17 INFO  Controller:66 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:36:17 INFO  Controller:69 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:36:17 INFO  Controller:69 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:36:17 INFO  Controller:80 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:36:17 INFO  Controller:81 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 15:36:17 INFO  Controller:53 - nombre: oriol, password: 334456, etakemons: pikachu
+2016-11-22 15:37:08 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:37:08 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:37:08 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:37:08 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:37:08 INFO  Controller:65 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:37:08 INFO  Controller:68 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:37:08 INFO  Controller:68 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:37:08 INFO  Controller:79 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:37:08 INFO  Controller:80 - edu.upc.eetac.dsa.User@7eda2dbb
+2016-11-22 15:37:08 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: pikachu
+2016-11-22 15:37:26 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:37:26 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:37:26 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:37:26 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:37:26 INFO  Controller:65 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:37:26 INFO  Controller:68 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:37:26 INFO  Controller:68 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:37:26 INFO  Controller:79 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:37:26 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: pikachu
+2016-11-22 15:38:21 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:38:21 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:38:21 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:38:21 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:38:21 INFO  Controller:65 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:38:21 INFO  Controller:68 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:38:21 INFO  Controller:68 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:38:21 INFO  Controller:79 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:38:21 INFO  Controller:79 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:38:21 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: pikachu
+2016-11-22 15:38:21 INFO  Controller:52 - nombre: oriol, password: 334456, etakemons: chorizor
+2016-11-22 15:45:43 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:45:43 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:45:43 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:45:43 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:45:43 INFO  Controller:71 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:45:43 INFO  Controller:74 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:45:43 INFO  Controller:74 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:45:43 INFO  Controller:85 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:45:43 INFO  Controller:85 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:46:22 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:46:22 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:46:22 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:46:22 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:46:22 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:46:22 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:46:22 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:46:22 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:46:22 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:46:22 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [pikachu, chorizor, 
+2016-11-22 15:47:26 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:47:26 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:47:26 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:47:26 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:47:26 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:47:26 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:47:26 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:47:26 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:47:26 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:47:26 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [pikachu, chorizor,  aaaaaaaaaaaaaaa      2
+2016-11-22 15:47:57 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:47:57 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:47:57 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:47:57 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:47:57 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:47:57 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:47:57 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:47:57 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:47:57 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:47:57 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [pikachu, chorizor] aaaaaaaaaaaaaaa      2
+2016-11-22 15:49:13 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:49:13 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:49:13 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:49:13 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:13 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:49:13 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:49:13 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:13 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:49:13 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:49:13 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; chorizor] aaaaaaaaaaaaaaa      2
+2016-11-22 15:49:33 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:49:33 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:49:33 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:49:33 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:33 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:49:33 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:49:33 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:33 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:49:33 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:49:33 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2] aaaaaaaaaaaaaaa      2
+2016-11-22 15:49:57 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 15:49:57 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 15:49:57 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 15:49:57 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:57 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 15:49:57 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 15:49:57 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 15:49:57 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 15:49:57 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 15:49:57 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:08:13 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:08:13 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:08:13 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:08:13 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:08:13 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:08:13 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:08:13 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:08:13 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:08:13 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:08:13 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:08:13 INFO  Controller:93 - Lista etakemons del usuario oriol
+2016-11-22 16:08:47 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:08:47 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:08:47 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:08:47 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:08:47 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:08:47 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:08:47 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:08:47 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:08:47 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:08:47 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:08:47 INFO  Controller:93 - Lista etakemons del usuario oriol              0
+2016-11-22 16:09:47 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:09:47 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:09:47 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:09:47 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:09:47 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:09:47 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:09:47 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:09:47 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:09:47 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:09:47 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:09:47 INFO  Controller:93 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:11:44 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:11:44 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:11:44 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:11:44 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:11:44 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:11:44 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:11:44 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:11:44 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:11:44 INFO  Controller:87 - []
+2016-11-22 16:11:44 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:11:44 INFO  Controller:87 - []
+2016-11-22 16:11:44 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:11:44 INFO  Controller:94 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:12:39 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:12:39 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:12:39 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:12:39 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:12:39 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:12:39 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:12:39 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:12:39 INFO  Controller:86 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:12:39 INFO  Controller:87 - [edu.upc.eetac.dsa.Etakemon@c4437c4]
+2016-11-22 16:12:39 INFO  Controller:86 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:12:39 INFO  Controller:87 - [edu.upc.eetac.dsa.Etakemon@c4437c4, edu.upc.eetac.dsa.Etakemon@433c675d]
+2016-11-22 16:12:39 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:12:39 INFO  Controller:94 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:14:09 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:14:09 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:14:09 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:14:09 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:14:09 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:14:09 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:14:09 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:14:09 INFO  Controller:87 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:14:09 INFO  Controller:88 - [edu.upc.eetac.dsa.Etakemon@c4437c4]
+2016-11-22 16:14:09 INFO  Controller:89 - funciona?      []
+2016-11-22 16:14:09 INFO  Controller:87 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:14:09 INFO  Controller:88 - [edu.upc.eetac.dsa.Etakemon@c4437c4, edu.upc.eetac.dsa.Etakemon@433c675d]
+2016-11-22 16:14:09 INFO  Controller:89 - funciona?      []
+2016-11-22 16:14:09 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:14:09 INFO  Controller:96 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:14:46 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:14:46 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:14:46 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:14:46 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:14:46 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:14:46 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:14:46 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:14:46 INFO  Controller:88 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:14:46 INFO  Controller:89 - [edu.upc.eetac.dsa.Etakemon@c4437c4]
+2016-11-22 16:14:46 INFO  Controller:90 - funciona?      [edu.upc.eetac.dsa.Etakemon@c4437c4]
+2016-11-22 16:14:46 INFO  Controller:88 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:14:46 INFO  Controller:89 - [edu.upc.eetac.dsa.Etakemon@c4437c4, edu.upc.eetac.dsa.Etakemon@433c675d]
+2016-11-22 16:14:46 INFO  Controller:90 - funciona?      [edu.upc.eetac.dsa.Etakemon@c4437c4, edu.upc.eetac.dsa.Etakemon@433c675d]
+2016-11-22 16:14:46 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:14:46 INFO  Controller:97 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:15:34 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:15:34 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:15:34 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:15:34 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:15:34 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:15:34 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:15:34 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:15:34 INFO  Controller:88 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:15:34 INFO  Controller:88 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:15:34 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:15:34 INFO  Controller:95 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:15:56 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:15:56 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:15:56 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:15:56 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:15:56 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:15:56 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:15:56 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:15:56 INFO  Controller:88 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:15:56 INFO  Controller:88 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:15:56 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:15:56 INFO  Controller:95 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:15:56 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:15:56 INFO  Controller:75 - nombre: lola, password: lolita, etakemons: []
+2016-11-22 16:15:56 INFO  Controller:75 - nombre: oriol, password: 334456, etakemons: [edu.upc.eetac.dsa.Etakemon@1f17ae12, edu.upc.eetac.dsa.Etakemon@4d405ef7]
+2016-11-22 16:17:41 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:17:41 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:17:41 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:17:41 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:17:41 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:17:41 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:17:41 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:17:41 INFO  Controller:87 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:17:41 INFO  Controller:87 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:17:41 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:17:41 INFO  Controller:94 - Lista etakemons del usuario oriol              0    aaaa 0
+2016-11-22 16:17:41 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:17:41 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:17:41 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:18:57 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:18:57 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:18:57 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:18:57 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:18:57 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:18:57 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:18:57 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:18:57 INFO  Controller:87 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:18:57 INFO  Controller:87 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:18:57 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:18:57 INFO  Controller:94 - Lista etakemons del usuario oriol              2    aaaa 0
+2016-11-22 16:18:57 INFO  Controller:96 - nombre: pikachu, id: 1
+2016-11-22 16:18:57 INFO  Controller:96 - nombre: chorizor, id: 2
+2016-11-22 16:18:57 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:18:57 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:18:57 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:19:30 INFO  Controller:26 - Usuario lola añadido con password lolita
+2016-11-22 16:19:30 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:19:30 INFO  Controller:37 - Usuario modificado. El nuevo password es 334456
+2016-11-22 16:19:30 INFO  Controller:49 - nombre: oriol, password: 334456, etakemons: []
+2016-11-22 16:19:30 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:19:30 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:19:30 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:19:30 INFO  Controller:87 - el etakemon pikachu se ha añadido al usuario oriol
+2016-11-22 16:19:30 INFO  Controller:87 - el etakemon chorizor se ha añadido al usuario oriol
+2016-11-22 16:19:30 INFO  Controller:60 - nombre: oriol, password: 334456, etakemons: [nombre: pikachu, id: 1; nombre: chorizor, id: 2]
+2016-11-22 16:19:30 INFO  Controller:94 - Lista etakemons del usuario oriol
+2016-11-22 16:19:30 INFO  Controller:96 - nombre: pikachu, id: 1
+2016-11-22 16:19:30 INFO  Controller:96 - nombre: chorizor, id: 2
+2016-11-22 16:19:30 INFO  Controller:72 - Lista usuarios ordenados alfabeticamente: 
+2016-11-22 16:19:30 INFO  Controller:75 - nombre: lola, password: lolita
+2016-11-22 16:19:30 INFO  Controller:75 - nombre: oriol, password: 334456
+2016-11-22 16:29:28 INFO  Controller:26 - Usuario oriol añadido con password 1234
+2016-11-22 16:29:28 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:29:28 INFO  Controller:87 - el etakemon dito se ha añadido al usuario oriol
+2016-11-22 16:31:16 INFO  Controller:26 - Usuario oriol añadido con password 1234
+2016-11-22 16:31:16 INFO  Controller:27 - hay 1 usuario/s
+2016-11-22 16:31:16 INFO  Controller:87 - el etakemon dito se ha añadido al usuario oriol

@@ -1,0 +1,35 @@
+2016-11-23 20:00:25 INFO  UserDAO:81 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:01:35 INFO  UserDAO:81 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:25:09 INFO  UserDAO:76 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:25:09 INFO  UserDAO:76 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:25:10 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:26:06 INFO  UserDAO:76 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:26:07 INFO  UserDAO:76 - QUERY:INSERT INTO User (name,password) VALUES (?,?);
+
+2016-11-23 20:26:07 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:26:07 INFO  UserDAO:177 - edu.upc.eetac.dsa.User@2cb4c3ab
+
+2016-11-23 20:26:07 INFO  UserDAO:177 - edu.upc.eetac.dsa.User@13c78c0b
+
+2016-11-23 20:26:29 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:26:30 INFO  UserDAO:177 - edu.upc.eetac.dsa.User@77b52d12
+
+2016-11-23 20:26:30 INFO  UserDAO:177 - edu.upc.eetac.dsa.User@6be46e8f
+
+2016-11-23 20:27:31 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:27:32 INFO  UserDAO:177 - name: lola, password: 344444
+
+2016-11-23 20:27:32 INFO  UserDAO:177 - name: oriol, password: 3456
+
+2016-11-23 20:27:45 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:27:45 INFO  UserDAO:177 - name: lola, password: 344444
+2016-11-23 20:27:45 INFO  UserDAO:177 - name: oriol, password: 3456
+2016-11-23 20:28:15 INFO  UserDAO:127 - QUERY: UPDATE User SET name=?,password=? WHERE name='oriol'
+2016-11-23 20:28:16 INFO  UserDAO:176 - lista de usuarios ordenados alfabeticamente:
+2016-11-23 20:28:16 INFO  UserDAO:178 - name: lola, password: 344444
+2016-11-23 20:28:16 INFO  UserDAO:178 - name: oriol, password: 3456
